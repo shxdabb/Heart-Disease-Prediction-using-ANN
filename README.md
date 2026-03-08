@@ -18,7 +18,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
 ## 📦 Libraries Used
 
 - TensorFlow
-- Keras
+ Keras
 - NumPy
 - Matplotlib
 
