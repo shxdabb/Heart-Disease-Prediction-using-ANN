@@ -14,7 +14,7 @@ This project uses a deep learning model built with TensorFlow/Keras to recognize
 - **Input Layer** : 784 neurons (flattened 28x28 image)
 - **Hidden Layer**: 128 neurons, ReLU activation
 - **Output Layer**: 10 neurons, Softmax activation
-
+ 
 ## 📦 Libraries Used
  
 - TensorFlow
